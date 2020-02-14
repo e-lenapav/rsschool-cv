@@ -1,23 +1,29 @@
 # Pavlova Elena
-## Junior Front end developer
-### Contacts
+## **Junior Front end developer**
+## Contacts
 * Russian, Izhevsk
 * [elenpavlova93@gmail.com](mailto:elenpavlova93@gmail.com)
-* [https://github.com/e-lenapav](https://github.com/e-lenapav)
+* Github [e-lenapav](https://github.com/e-lenapav)
 
-### Experience
-* Recruter [It Recrut](https://it-recruit.ru) (12/2019-now)
+## Experience
+Recruter IT [**It Recrut**](https://it-recruit.ru) (12/2019-now)
+* Candidate Sourcing & Screening
+* Advanced Boolean Searches
+
+Recruiter assistant IT [INemiro](https://www.youtube.com/c/HuntITru) (06/2019-now)
+* Behavioral-Based Interviewing
+* Social Media Recruiting Tools
 
 
 
 
 
-### Skills
+## Skills
 
  * Technologies: basic HTML, CSS
- * 
+ * Good at establishing rapport with people from diverse backgrounds
 
-### Code examples
+## Code examples
 ``` Html
 <html>
 <body>
@@ -31,9 +37,9 @@
 </body>
 </html>
 ```
-### Education
- Financial and credit at [ISTU](http://www.istu.ru/) Izhevsk, 2010 - 2014
+## Education
+ *[Izhevsk State Technical University](http://www.istu.ru/)*, Financial and credit, Izhevsk, 2010 - 2014
 
-### English A1
+## English A1
 I haven`t experience in English
 
