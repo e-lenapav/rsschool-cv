@@ -34,4 +34,6 @@
 ### Education
  Financial and credit at [ISTU](http://www.istu.ru/) Izhevsk, 2010 - 2014
 
+### English A1
+I haven`t experience in English
 
